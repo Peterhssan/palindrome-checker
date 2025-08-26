@@ -18,3 +18,7 @@ It ignores spaces, punctuation, and capitalization.
 3. The result will display below the input field.
 
 ## Demo
+
+## Demo
+
+[View Live Project](https://peterhssan.github.io/palindrome-checker/)
