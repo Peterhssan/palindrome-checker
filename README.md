@@ -19,6 +19,4 @@ It ignores spaces, punctuation, and capitalization.
 
 ## Demo
 
-## Demo
-
 [View Live Project](https://peterhssan.github.io/palindrome-checker/)
